@@ -1,4 +1,4 @@
-# scouit-frontend
+# scouit
 
 2023.01.25 Project Start !!
 
