@@ -1,12 +1,21 @@
-## Hi there 👋
+# scouit-frontend
 
-<!--
+2023.01.25 Project Start !!
 
-**Here are some ideas to get you started:**
+<div><a href="https://github.com/KOVELO2005/scouit-backend">FrontEnd repository</a></div>
+<div><a href="https://github.com/KOVELO2005/scouit-backend">BackEnd repository</a></div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 간단소개
+
+### `당신이 지원자라면?`
+
+프로필을 등록해서 회사에게 스카웃받고
+원하는 회사에 대한 정보를 쉽게 확인하세요.
+
+### `당신이 CEO라면?`
+
+원하는 인재를 스카웃하고
+면접 프로세스 관리를 편리하게 해보세요.
+
+---
+© 2023. 조상현 All rights reserved.
