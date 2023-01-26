@@ -1,10 +1,8 @@
 # scouit
 
-2023.01.25 Project Start !!
+**2023.01.25 Project Start !!**
 
-<div><a href="https://github.com/KOVELO2005/scouit-backend">FrontEnd repository</a></div>
-<div><a href="https://github.com/KOVELO2005/scouit-backend">BackEnd repository</a></div>
-
+---
 ## 간단소개
 
 ### `당신이 지원자라면?`
@@ -16,6 +14,12 @@
 
 원하는 인재를 스카웃하고
 면접 프로세스 관리를 편리하게 해보세요.
+
+---
+## repository
+
+- <div><a href="https://github.com/KOVELO2005/scouit-backend">FrontEnd</a></div>
+- <div><a href="https://github.com/KOVELO2005/scouit-backend">BackEnd</a></div>
 
 ---
 © 2023. 조상현 All rights reserved.
