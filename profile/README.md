@@ -18,8 +18,8 @@
 ---
 ## repository
 
-- <div><a href="https://github.com/KOVELO2005/scouit-backend">FrontEnd</a></div>
-- <div><a href="https://github.com/KOVELO2005/scouit-backend">BackEnd</a></div>
+- <div><a href="https://github.com/scouit/scouit-frontend">FrontEnd</a></div>
+- <div><a href="https://github.com/scouit/scouit-backend">BackEnd</a></div>
 
 ---
 © 2023. 조상현 All rights reserved.
